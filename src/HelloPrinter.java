@@ -8,6 +8,5 @@ public class HelloPrinter { //This is the main class (the blue print)
         System.out.println("This"); //Carriage return after
         System.out.printf("'%15s' %n", "New"); //Printing with formatting, functionally same as print otherwise
         System.out.print("York"); //No line breakage
-
     }
 }
