@@ -21,5 +21,6 @@ public class TravelTime {
         double segment2Time = segment2Length / segment2Speed;
         double totalTime = segment1Time + segment2Time;
         System.out.print("Total time: " + totalTime);
+
     }
 }
