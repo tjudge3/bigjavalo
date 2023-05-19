@@ -5,5 +5,8 @@ public class nameCon {
         String lname = "Morgan";
         String name = fname + lname;
         System.out.print(name);
+        System.out.println();
+        String fullName = fname + " " + lname;
+        System.out.print(fullName);
     }
 }
