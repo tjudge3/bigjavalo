@@ -4,7 +4,7 @@ public class FormatTable {
     public static void main(String[] args)
     {
         Scanner in = new Scanner(System.in);
-        System.out.print("Unit price: "); // 19.95, 249.97, 0.009
+        System.out.print("Unit price: "); // 19.95, 249.97,0.009
         double price = in.nextDouble();
 
         System.out.println("Quantity     Price");
