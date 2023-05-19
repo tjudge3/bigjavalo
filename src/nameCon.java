@@ -31,5 +31,9 @@ public class nameCon {
         String clname = in.next();
         System.out.println(cfname);
         System.out.println(clname);
+        System.out.println();
+        System.out.println(clname + "," + "" + cfname);
+
+
     }
 }
