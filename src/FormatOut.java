@@ -10,5 +10,6 @@ public class FormatOut {
         System.out.printf("%10.2f", price); // Format specifier
         System.out.println("");
         System.out.printf("Quantity: %d Total: %10.2f", quantity, total);
+        System.out.printf("%nQuantity: %7d%nTotal: %10.2f%n", quantity, total);
     }
 }
