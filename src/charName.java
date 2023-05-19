@@ -14,8 +14,8 @@ public class charName {
         String greeting = "Hello, World!";
         String sub1 = greeting.substring(0,5);
         System.out.println(sub1);
-        String sub2 = greeting.substring(7,12);
-        System.out.println(sub2);
+        String sub3 = greeting.substring(7,12);
+        System.out.println(sub3);
 
     }
 }
