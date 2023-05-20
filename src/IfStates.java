@@ -1,5 +1,7 @@
 import java.util.Scanner;
-
+/**
+ * Program to simulate the skipping of the 13th floor
+*/
 public class IfStates {
     public static void main(String[] args)
     {
@@ -15,6 +17,6 @@ public class IfStates {
         {
             actualFloor = floor;
         }
-        System.out.println(actualFloor);
+        System.out.println("The actual floor is: " + actualFloor);
     }
 }
