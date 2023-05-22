@@ -44,7 +44,7 @@ public class Compare4 {
             }
             else
             {
-                System.out.println("The numbers ahve different signs");
+                System.out.println("The numbers have different signs");
             }
         }
     }
