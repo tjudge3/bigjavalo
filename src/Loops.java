@@ -16,6 +16,13 @@ public class Loops {
 //            sum = sum - i;
 //            System.out.println(sum);
 //        }
+        int number = 1;
+        while (number <=5)
+        {
+            int value = number * 3;
+            System.out.print(number + " : " + value + " , ");
+            number++;
+        }
 
     }
 }

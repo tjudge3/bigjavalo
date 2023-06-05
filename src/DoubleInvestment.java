@@ -5,7 +5,7 @@ public class DoubleInvestment {
     public static void main(String[] args)
     {
         final double RATE = 5;
-        final double INITIAL_BALANCE = 10000;
+        final double INITIAL_BALANCE = 1000000;
         final double TARGET = 2 * INITIAL_BALANCE;
 
         double balance = INITIAL_BALANCE;
