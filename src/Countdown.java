@@ -7,8 +7,8 @@ public class Countdown {
         System.out.print("Enter a positive integer ");
         int n = in.nextInt();
 
-        for (n=n; n >= 0; n--)
-            System.out.print(n + "...");
+        for (int i=n; i >= 0; i--)
+            System.out.print(i + "...");
         System.out.print("Liftoff");
     }
 }
